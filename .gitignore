@@ -1,0 +1,14 @@
+chexpert
+chexpert_cnn_multiclass_test.ipynb
+chexpert_feature_gen.py
+chexpert_hypersearch.ipynb
+chexpert_hypersearch_svm.ipynb
+descritores
+exp_hog_com_inc.ipynb
+exp_hog_sem_inc.ipynb
+gen_datasets
+generate_roc.ipynb
+hpsearch
+manifestos
+__pycache__
+relatorios
